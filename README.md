@@ -53,9 +53,9 @@ Power Bi automatically relationships
 
   1. The total revenue generated from 2013 - 2017 was $23M, this can also be filted by year to see revenue for each year.
   
-  2. The total revenue by month trend shows that revenue was highest in December ($3.13M) followed by November (2.39M). February and January Produced the lowest            revenue (1.31M, 1.34M) respectively.
+  2. The total revenue by month trend shows that revenue was highest in December ($3.13M) followed by November (2.39M). February and January Produced the lowest revenue (1.31M, 1.34M) respectively.
   
-  3. At $1,098,138, Earlie Schleusner who is a sales rep had the highest Total Revenue and 174,430 quantity of products ordered followed by Tia Amato with a revenue of      $1,010,691 and 152,638 quantity of products.
+  3. At $1,098,138, Earlie Schleusner who is a sales rep had the highest Total Revenue and 174,430 quantity of products ordered followed by Tia Amato with a revenue of $1,010,691 and 152,638 quantity of products.
   
   ![](Revenueregion.png)
   
