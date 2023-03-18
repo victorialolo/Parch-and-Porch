@@ -65,7 +65,7 @@ Power Bi automatically relationships
   
     . The total revenue by month trend shows that revenue was highest in December ($3.13M) followed by November (2.39M). February and January Produced the lowest revenue (1.31M, 1.34M) respectively. More Adverts and Promotions should be made in these months to enable increase in revenue.
     
-    . Across all 4 regions, Northeast has the highest product ordered quantity which is the Standard paper 646871, this same product has the highest quantity ordered, from the 3 rest regions Southeast, West and Midwest respectively. The Midwest has the least product ordered which is the Poster paper with 83377 quantity         ordered. The company should make available the Standard paper more in the 4 regions and more sales rep can also be considered for employment to help to generate       more income. 
+    . Across all 4 regions, Northeast has the highest product ordered quantity which is the Standard paper 646871, this same product has the highest quantity ordered, from the 3 rest regions Southeast, West and Midwest respectively. The Midwest has the least product ordered which is the Poster paper with 83377 quantity ordered. The company should make available the Standard paper more in the 4 regions and more sales rep can also be considered for employment to help to generate more income. 
   
     . At $1,098,138, Earlie Schleusner who is a sales rep had the highest Total Revenue and 174,430 quantity of products ordered followed by Tia Amato with a revenue of $1,010,691 and 152,638 quantity of products. Rewards, commission and Bonues should be awarded and given for employees hard work. This will encourage others to do more. 
   
