@@ -43,7 +43,7 @@ Data was officially cleaned and transformed with the Power Query Editor of Power
   
 ## Data Modelling
 
-Power Bi automatically relationships 
+Power Bi automatically generate relationships between the different tables
 
 ![](model.png)
 
